@@ -2,10 +2,11 @@
 <resources>
     <color name="primaryColor">#2979FF</color>
     <color name="primaryLightColor">#E0F2F1</color>
-    <color name="primaryDarkColor">#2979FF</color>
+    <color name="primaryDarkColor">#005cb2</color>
     <color name="colorAccent">#2979FF</color>
     <color name="primaryTextColor">#e0f2f1</color>
     <color name="secondaryTextColor">#ffffff</color>
     <color name="skyblue">#2979FF</color>
     <color name="white">#ffffff</color>
+
 </resources>
