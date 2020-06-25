@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chaty</string>
+    <string name="dontaccount">"Don't have an account? "</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="haveaccount">Already have an account?</string>
+    <string name="login">log in</string>
+</resources>

@@ -1,0 +1,23 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryDark">@color/primaryDarkColor</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="MenuStyle" parent="Theme.AppCompat.Light">
+        <item name="android:background">@android:color/white</item>
+    </style>
+
+    <style name="MyButton" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <!-- Border color -->
+        <item name="strokeColor">@color/strokecolor</item>
+        <!-- Text color -->
+        <item name="android:textColor">@color/textcolor</item>
+        <!-- Background color -->
+        <item name="backgroundTint">@color/background</item>
+    </style>
+</resources>

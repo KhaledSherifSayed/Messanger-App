@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "36108767442",
+    "firebase_url": "https://messanger-app-10679.firebaseio.com",
+    "project_id": "messanger-app-10679",
+    "storage_bucket": "messanger-app-10679.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36108767442:android:1f26e49b20163936d61d0b",
+        "android_client_info": {
+          "package_name": "com.meslmawy.messangerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36108767442-4uc5h8b5duavm2gv7r9ilbtbhtp2qomb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2U-Ylz5wbcmFBHNeDgQUNpaScGb1RKnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36108767442-4uc5h8b5duavm2gv7r9ilbtbhtp2qomb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
